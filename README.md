@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Working in [SmartFit](https://www.smartfit.com.br/) [@MartinsMarco](https://github.com/MartinsMarco).
+Working in [SmartFit](https://www.smartfit.com.br/) [@marco-martins-smartfit](https://github.com/marco-martins-smartfit).
 
 <!--
 **MarcoAntonioMartins/MarcoAntonioMartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
